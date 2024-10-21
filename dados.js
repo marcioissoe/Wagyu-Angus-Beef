@@ -15,13 +15,13 @@ let dados = [
         titulo: "Chorizo de Wagyu Classificacao A5",
         descricao: "O bife de Chorizo Wagyu tem classificação A5, o mais alto de qualidade de carne do mundo. Seu grau de marmoreio, BMS 10, é encontrado em apenas 1% da carne japonesa.",
         link: "https://www.emporio481.com.br/produto/chorizo-wagyu-a5-481/",
-        tags: "Carne carnes Chorizo Wagyu Marmoreio A5"
+        tags: "Carne carnes Chorizo Contra File Wagyu Marmoreio A5"
     },
     {
         titulo: "Ancho de Wagyu Classificacao A5",
         descricao: "O bife ancho Wagyu possui classificação A5, o mais alto nível de qualidade de carne do mundo. Seu grau de marmoreio, BMS 10, é encontrado em apenas 1% da carne japonesa.",
         link: "https://www.emporio481.com.br/produto/ancho-de-wagyu-a5-481/",
-        tags: "Carne carnes Ancho Wagyu Marmoreio A5"
+        tags: "Carne carnes Ancho Wagyu Contra File Marmoreio A5"
     },
 
 ];

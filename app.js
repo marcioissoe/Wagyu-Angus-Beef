@@ -41,7 +41,7 @@ function pesquisar() {
 
         <p class="descricao-meta">${dado.descricao} </p>
 
-        <img src="Picanha-Peca-Wagyu.jpg" alt="Picanha-Peca-Wagyu">
+        <img src="Picanha Wagyu A5.jpeg" alt="Picanha-Peca-Wagyu">
 
         <a href=${dado.link} target="_blank"> Mais Informações </a>
 
